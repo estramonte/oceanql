@@ -1,0 +1,4 @@
+fathomnet
+psycopg[binary]
+python-dotenv
+boto3
